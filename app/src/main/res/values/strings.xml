@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">mPokket</string>
+    <string name="Rs">\u20B9</string>
+    <string name="total_borrowing_limit">Total borrowing limit</string>
+    <string-array name="borrow_amount">
+        <item>250</item>
+        <item>500</item>
+        <item>750</item>
+        <item>1000</item>
+
+    </string-array>
+
+    <string-array name="repay">
+        <item>1 Month</item>
+        <item>2 Month</item>
+        <item>3 Month</item>
+    </string-array>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "618941787733",
+    "firebase_url": "https://mpokket-16a47.firebaseio.com",
+    "project_id": "mpokket-16a47",
+    "storage_bucket": "mpokket-16a47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618941787733:android:6a0ba995ae0f502c",
+        "android_client_info": {
+          "package_name": "com.ibrickedlabs.mpokket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618941787733-mq07ttvs6jjhadvjtid8vti6fb1d10i8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ibrickedlabs.mpokket",
+            "certificate_hash": "0a3bad2223be8d75673a0d63b732396a8e16e7be"
+          }
+        },
+        {
+          "client_id": "618941787733-sncdshmoeamd99ncoe6tu3kblgfctc9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuhswK7wJoc0tPXllsYzhV9a4yGTXMdMQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618941787733-sncdshmoeamd99ncoe6tu3kblgfctc9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

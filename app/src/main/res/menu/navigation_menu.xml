@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+android:icon="@drawable/account"
+        android:id="@+id/account"
+        android:orderInCategory="3"
+        android:title="Account"/>
+    <item
+android:icon="@drawable/recents"
+        android:title="Recents"
+        android:orderInCategory="2"
+        android:id="@+id/recents"/>
+    <item
+        android:icon="@drawable/wallet"
+        android:title="Request"
+        android:orderInCategory="1"
+        android:id="@+id/request_money"/>
+
+
+
+</menu>
